@@ -26,8 +26,7 @@ Here’s what the **Totem** website offers:
 ## 💻 Technologies Used
 
 We leveraged modern tools and frameworks to create a scalable and efficient platform:  
-- **Frontend**: Next.js, Next UI, Tailwind CSS  
-- **Backend**: Supabase  
+- **Frontend**: Next.js, Next UI, Tailwind CSS
 
 ## 🚀 Live Website
 
